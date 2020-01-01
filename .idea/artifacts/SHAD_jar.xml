@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SHAD:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/SHAD_jar</output-path>
+    <root id="archive" name="SHAD.jar">
+      <element id="module-output" name="SHAD" />
+    </root>
+  </artifact>
+</component>
